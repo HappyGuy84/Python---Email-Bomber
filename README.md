@@ -3,6 +3,8 @@
 *#python* *#python 3* *#email* *#bomb* *#bomber* *#code* *#walk-through* *#hacking* *#info-sec* *#security* *#mass* *#spam* *#create*
 *#how* *#to* *#code* *#script* *#kiddie*
 
+[![Run on Repl.it](https://repl.it/badge/github/ncorbuk/Python---Email-Bomber)](https://repl.it/github/ncorbuk/Python---Email-Bomber)
+
 
 ![alt text](https://raw.githubusercontent.com/ncorbuk/Python---Email-Bomber/master/Email-Bomber%20v1.0%20Picture.jpg)
 
